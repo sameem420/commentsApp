@@ -12,7 +12,7 @@ class App extends React.Component {
 
   render(){
   return (
-    <div>
+    <div className="App">
       <button onClick={this.increment}>+</button>
       <h1>{this.props.count}</h1>
       <button onClick={this.decrement}>-</button>
