@@ -1,5 +1,5 @@
 ﻿# REACTMemeGeneratorApp
-Meme Generator app developed in ReactJS (image retrieval from third party API)
+REACT-REDUX Practice
 
 
 # Getting Started with Create React App
