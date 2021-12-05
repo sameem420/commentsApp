@@ -2,7 +2,7 @@ import React from "react";
 
 function ApprovalCard(props) {
   return (
-    <div style={{ marginTop: "10px" }}>
+    <div style={{ marginTop: "5px" }}>
       <div className="ui card centered">
         <div className="content">{props.children}</div>
         <div className="extra content">

@@ -1,5 +1,4 @@
 const CommentDetails = (props) => {
-  console.log(props);
   return (
     <div className="ui comment">
       <a className="avatar" href="/">
